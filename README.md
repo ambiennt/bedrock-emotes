@@ -47,6 +47,7 @@ A public collection of all known emotes can be very helpful to many developers.
 | Flight                 | b310ea06-0485-4ad1-8424-df271ca6ec37 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/8a7db0d3-8634-487e-a8fa-bc58d8b2db1c/infinity_and_beyond_thumbnail_0.png)               |
 | Fluttering             | 9c939344-f9d6-4a3a-95a5-f64dd3d94e45 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e2ca7df8-e839-4a95-9ecd-479988b5d645/fluttering_thumbnail_0.png)                        |
 | Flying Like Peter Pan  | 949c4f24-6aa6-4f2a-bad5-1b3de7e12749 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/826ea339-20df-4ac3-8267-9ce9756a253e/peter_pan_floating_thumbnail_0.png)                |
+| Follow Me              | 17428c4c-3813-4ea1-b3a9-d6a32f83afca | ![](communication_follow_me_thumbnail_0.png)|
 | Foot Stomp!            | 13334afa-bd66-4285-b3d9-d974046db479 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/945f7bd5-4ee9-4b7b-9037-75f1cb9d8688/emotion_angry_thumbnail_0.png)                     |
 | Found Inspiration      | b690c36b-bd02-45df-a60b-00c0dbbf265f | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/36ff3626-4762-49be-82a5-61c264ccf55b/having_an_idea_thumbnail_0.png)                    |
 | Ghast Dance            | 5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/4412704f-7261-4468-8900-f8a329812a55/dance_ghast_thumbnail_0.png)                       |
